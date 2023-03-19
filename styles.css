@@ -2,9 +2,10 @@ body {
   background-color: hsl(212, 45%, 89%);
   color: #22314a;
   font-family: 'Outfit', sans-serif;
+  height: 100vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .attribution { 
