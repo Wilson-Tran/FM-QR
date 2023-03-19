@@ -23,21 +23,20 @@ body {
   align-items: center;
   text-align: center;
   background-color: white;
-  width: 280px;
+  max-width: 280px;
   padding: 18px;
   border-radius: 20px;
   box-shadow: 4px 4px 20px hsl(212, 45%, 85%);
 }
 
 .code {
-  height: 280px;
-  width: 280px;
+  max-width: 100%;
   border-radius: 15px;
 }
 
 .title {
   color: hsl(218, 44%, 22%);
-  font-size: 22px;
+  font-size: 1.3rem;
   margin: 20px 15px;
 }
 
